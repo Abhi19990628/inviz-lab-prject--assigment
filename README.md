@@ -1,7 +1,7 @@
 # FASTAPI web framework Server for CityScape porject Inviz Labs
 
 
-This FAST API server provides endpoints to retrieve properties information, with support for adding new branches. It uses Mongo db as the database backend.
+This FAST API server provides endpoints to retrieve properties information, with support for adding new branches. It uses Mongo db as the database backend. AND CURD
 
 ## Setup Instructions
 
